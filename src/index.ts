@@ -105,6 +105,7 @@ const romanianMessages: TranslationMessages = {
             page_rows_per_page: "Rânduri pe pagină:",
             next: "Următorul",
             prev: "Precendetul",
+            skip_nav: "Sari la conținut",
         },
         sort: {
             sort_by: 'Sortează după %{field} %{order}',
